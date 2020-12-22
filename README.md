@@ -12,11 +12,10 @@
   [Questions](#questions)  
   ## Instalation instructions
   This is an online app.  Simply visit https://protected-beyond-70644.herokuapp.com/ to get started. 
-  ![budget 1](https://user-images.githubusercontent.com/71279945/102913044-10c07000-4433-11eb-9a0e-0df488e3c5fd.PNG)
-   
-    
   ## Usage description
   Simply enter a description of the transaction along with an amount, then click on either add or subtract funds depending on whether the transaction is an expense or a deposit.  
+    ![budget 1](https://user-images.githubusercontent.com/71279945/102913044-10c07000-4433-11eb-9a0e-0df488e3c5fd.PNG)
+     
   ## License information
   MIT   
   ## Contributors
